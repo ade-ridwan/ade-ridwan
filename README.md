@@ -1,4 +1,4 @@
-## Hello I'm Ade Ridwan - aka Readone45
+## Hello I'm Ade Ridwan - aka Ade-Ridwan
 
 [![Readone45's github stats](https://github-readme-stats.vercel.app/api?username=readone45)](https://github.com/readone45/readone45)
 
