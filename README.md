@@ -30,17 +30,15 @@ I'm a **Fullstack Web Developer** who loves building clean, functional, and scal
 
 ### 🏅 Badges
 <p align="left">
-<a href="https://holopin.io/@aderidwan">
-  <img src="https://holopin.me/aderidwan" alt="@aderidwan's Holopin badges" width="300px" />
-</a>
+[![An image of @aderidwan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aderidwan)](https://holopin.io/@aderidwan)
 </p>
 
 ---
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/ade-ridwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ade-ridwan" height="30" width="40" /></a>
-<a href="https://instagram.com/ade_ridwann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ade_ridwann" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ade-ridwan-108265258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ade-ridwan" height="30" width="40" /></a>
+<a href="https://instagram.com/_  ade_ridwann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ade_ridwann" height="30" width="40" /></a>
 </p>
 
 *"Programming isn't about what you know; it's about what you can figure out."*
