@@ -9,6 +9,7 @@ I'm a **Fullstack Web Developer** who loves building clean, functional, and scal
 ### 🛠 Tech Stack
 
 **Frontend & Styling**
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -16,13 +17,11 @@ I'm a **Fullstack Web Developer** who loves building clean, functional, and scal
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend & Scripting**
+
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-
-### 📊 GitHub Stats
-[![AdeRidwan's github stats](https://github-readme-stats.vercel.app/api?username=ade-ridwan)](https://github.com/ade-ridwan/ade-ridwan)
 
 ### 🏅 Badges
 [![An image of @aderidwan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aderidwan)](https://holopin.io/@aderidwan)
