@@ -29,16 +29,15 @@ I'm a **Fullstack Web Developer** who loves building clean, functional, and scal
 </p>
 
 ### 🏅 Badges
-<p align="left">
 [![An image of @aderidwan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aderidwan)](https://holopin.io/@aderidwan)
-</p>
+
 
 ---
 
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/ade-ridwan-108265258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ade-ridwan" height="30" width="40" /></a>
-<a href="https://instagram.com/_  ade_ridwann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ade_ridwann" height="30" width="40" /></a>
+<a href="https://instagram.com/_ade_ridwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ade_ridwann" height="30" width="40" /></a>
 </p>
 
 *"Programming isn't about what you know; it's about what you can figure out."*
